@@ -1,3 +1,3 @@
-local whitelist = {
+whitelist = {
 	["CN_MIXUE"] = 520
 }
