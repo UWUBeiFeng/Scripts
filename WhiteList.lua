@@ -1,3 +1,3 @@
 whitelist = {
-	["CN_MIXUE"] = 520
+	["CN_MIXUE"] = false
 }
