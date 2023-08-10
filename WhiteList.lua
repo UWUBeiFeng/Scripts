@@ -1,5 +1,5 @@
 whitelist = {
 	["CN_MIXUE"] = false,
 	["Imdinzhen"] = false,
-	["dkfkfkfjfkfjdj"] = false
+	["CN_long114514"] = false
 }
