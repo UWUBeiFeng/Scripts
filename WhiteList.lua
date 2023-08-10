@@ -3,5 +3,6 @@ whitelist = {
 	["Imdinzhen"] = false,
 	["CN_long114514"] = false,
 	["myzqwert1"] = false,
-	["woyffw"] = false
+	["woyffw"] = false,
+	["Chinese2140"] = false
 }
