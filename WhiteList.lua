@@ -6,5 +6,6 @@ whitelist = {
 	["woyffw"] = false,
 	["Chinese2140"] = false,
 	["X7wl9TZUtt9P1bd"] = false,
-	["djbdksh3"] = false
+	["djbdksh3"] = false,
+	["gghbfffjsj"] = false
 }
