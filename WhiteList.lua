@@ -4,5 +4,6 @@ whitelist = {
 	["xiaonuof"] = false,
 	["djbdksh3"] = false,
 	["gsafxa26"] = false,
-	["dkfkfkfjfkfjdj"] = false
+	["dkfkfkfjfkfjdj"] = false,
+	["mmmkill11"] = false
 }
