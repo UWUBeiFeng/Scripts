@@ -5,6 +5,7 @@ whitelist = {
 	["xiaonuof"] = false,
 	["kaigez2"] = false,
 	["linsbfnn"] = false,
+	["rnmdzb"] = false,
 
 	-- 公益账号
 	["djbdksh3"] = false,
