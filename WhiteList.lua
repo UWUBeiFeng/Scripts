@@ -11,5 +11,6 @@ whitelist = {
 	["gsafxa26"] = false,
 	["dkfkfkfjfkfjdj"] = false,
 	["mmmkill11"] = false,
-	["tps520"] = false
+	["tps520"] = false,
+	["xxfs666"] = false
 }
