@@ -6,6 +6,7 @@ whitelist = {
 	["kaigez2"] = false,
 	["linsbfnn"] = false,
 	["rnmdzb"] = false,
+	["Aikuniskun"] = false,
 
 	-- 公益账号
 	["djbdksh3"] = false,
