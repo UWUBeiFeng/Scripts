@@ -10,5 +10,6 @@ whitelist = {
 	["spring54199"] = false,
 	["CN_114514888"] = false,
 	["VXQEKC"] = false,
-	["hbw886"] = false
+	["hbw886"] = false,
+	["LinkedPoet41174"] = false
 }
