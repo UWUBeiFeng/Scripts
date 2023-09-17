@@ -8,5 +8,6 @@ whitelist = {
 	["rnmdzb"] = false,
 	["Aikuniskun"] = false,
 	["spring54199"] = false,
-	["CN_114514888"] = false
+	["CN_114514888"] = false,
+	["VXQEKC"] = false
 }
