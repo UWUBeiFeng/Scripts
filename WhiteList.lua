@@ -7,5 +7,6 @@ whitelist = {
 	["linsbfnn"] = false,
 	["rnmdzb"] = false,
 	["Aikuniskun"] = false,
-	["spring54199"] = false
+	["spring54199"] = false,
+	["CN_114514888"] = false
 }
