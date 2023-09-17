@@ -9,5 +9,6 @@ whitelist = {
 	["Aikuniskun"] = false,
 	["spring54199"] = false,
 	["CN_114514888"] = false,
-	["VXQEKC"] = false
+	["VXQEKC"] = false,
+	["hbw886"] = false
 }
