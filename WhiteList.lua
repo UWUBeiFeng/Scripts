@@ -11,5 +11,7 @@ whitelist = {
 	["CN_114514888"] = false,
 	["VXQEKC"] = false,
 	["hbw886"] = false,
-	["LinkedPoet41174"] = false
+	["LinkedPoet41174"] = false,
+	["ouofvv"] = false,
+	["ououwshw24"] = false
 }
