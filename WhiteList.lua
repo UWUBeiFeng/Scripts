@@ -13,5 +13,6 @@ whitelist = {
 	["hbw886"] = false,
 	["LinkedPoet41174"] = false,
 	["ouofvv"] = false,
-	["ououwshw24"] = false
+	["ououwshw24"] = false,
+	["ks_yangnb6666"] = false
 }
