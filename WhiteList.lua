@@ -22,5 +22,6 @@ whitelist = {
 	["googcommmm"] = false,
 	["zuohongjian"] = false,
 	["idrthhf"] = false,
-	["baiyede"] = false
+	["baiyede"] = false,
+	["CXK_XD"] = false
 }
