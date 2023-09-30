@@ -17,5 +17,6 @@ whitelist = {
 	["ks_yangnb6666"] = false,
 	["Nobbnoo3"] = false,
 	["ikunzhyfd"] = false,
-	["jiege089"] = false
+	["jiege089"] = false,
+	["sjngu3"] = false
 }
