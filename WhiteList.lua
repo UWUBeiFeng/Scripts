@@ -25,5 +25,6 @@ whitelist = {
 	["baiyede"] = false,
 	["CXK_XD"] = false,
 	["fjjjkuf"] = false,
-	["ifw215n"] = false
+	["ifw215n"] = false,
+	["qugemingzhemonan"] = false
 }
